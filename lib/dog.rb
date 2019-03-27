@@ -15,4 +15,5 @@ class Dog
 end
 
 happy = Dog.new("Mutt")
+happy.name
 happy.breed = "Mutt"
