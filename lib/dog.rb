@@ -6,10 +6,3 @@ class Dog
   end
 
 end
-
-happy = Dog.new("Mutt")
-happy.name = "Happy"
-happy.breed = "Mutt"
-
-happy.name
-happy.breed
